@@ -16,3 +16,5 @@ Pages Included
  * rojects
  * skills
  * contact
+
+[Website Screenshot](screenshot.png)
