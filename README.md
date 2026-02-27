@@ -17,4 +17,4 @@ Pages Included
  * skills
  * contact
 
-[Website Screenshot](Screenshot/screenshot.png)
+![Screenshot](screenshot.png)
